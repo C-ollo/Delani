@@ -1,4 +1,3 @@
-alert('working');
 
 $(document).ready(function(){
     $("#development-image").click(function(){
